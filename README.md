@@ -1,2 +1,2 @@
-# desafio-intermediario-recriando-layout-01
+# projeto01-desafio-intermediario-recriando-layout
 Rocketseat
